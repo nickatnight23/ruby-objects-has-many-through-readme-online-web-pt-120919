@@ -23,3 +23,4 @@ def waiters
     
 def new_meal
   end
+end
